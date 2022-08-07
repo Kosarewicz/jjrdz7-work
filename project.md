@@ -1,2 +1,2 @@
-JJRDZ7 - Java
+Kurs Java 
 Michał Kosarewicz
