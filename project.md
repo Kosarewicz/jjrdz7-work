@@ -1,1 +1,2 @@
-Kurs Java
+Kurs Java 
+Michał Kosarewicz
