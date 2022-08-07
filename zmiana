@@ -1,0 +1,23 @@
+[33mcommit 9eb589ae1d01d4416ad03cff355fd27a4637ee59[m[33m ([m[1;36mHEAD -> [m[1;32mfeature/hello_name[m[33m)[m
+Author: Kosarewicz Michal <kosarewicz.michal@gmail.com>
+Date:   Sun Aug 7 16:21:40 2022 +0200
+
+    zmiana name
+
+[33mcommit 5c1b10ea9ed4a0210cc47764fba7ddfae4b31172[m[33m ([m[1;31morigin/zmiana_a[m[33m, [m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: Kosarewicz Michal <kosarewicz.michal@gmail.com>
+Date:   Sun Aug 7 15:56:18 2022 +0200
+
+    zmiana b
+
+[33mcommit 1e61909c5bdfa0958385558d2b2a19980737850b[m
+Author: Kosarewicz Michal <kosarewicz.michal@gmail.com>
+Date:   Sun Aug 7 15:45:05 2022 +0200
+
+    zmiana
+
+[33mcommit 7eca7b4dee98bc8f9cf513ea38b65843f49d5683[m
+Author: Kosarewicz Michal <kosarewicz.michal@gmail.com>
+Date:   Sun Aug 7 15:25:06 2022 +0200
+
+    hello
